@@ -5,3 +5,4 @@
 - In our modules, we can export a single function, or an object and access that accordingly
 - We can use require to import modules, and use the module.exports to export modules
 - The path module is used to get the absolute path of the file, and is used to get the path of the file we want to import
+- OS module gives important information about the operating system.
